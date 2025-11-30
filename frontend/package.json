@@ -27,6 +27,7 @@
     "stream-chat": "^9.23.0",
     "stream-chat-react": "^13.9.0",
     "tailwindcss": "^4.1.14",
+    "@vitejs/plugin-react": "^5.1.1",
     "talent-iq": "file:.."
   },
   "devDependencies": {
